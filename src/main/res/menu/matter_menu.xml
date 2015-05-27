@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MatterActivity">
+
+    <item android:id="@+id/action_matter_new"
+        android:title="@string/matter.new"
+        android:icon="@drawable/ic_action_new"
+        app:showAsAction="always|withText" />
+
+    <item android:id="@+id/action_matter_list"
+        android:title="@string/matter.list"
+        android:icon="@drawable/ic_action_view_as_list"
+        app:showAsAction="always|withText" />
+</menu>

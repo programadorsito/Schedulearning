@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" 
+    tools:context=".MainActivity">
+    
+    <item 
+        android:id="@+id/action_settings" 
+        android:title="@string/action_settings"
+        android:orderInCategory="100" 
+        app:showAsAction="never" />
+    
+    <item 
+        android:id="@+id/tasks_option"
+        android:title="@string/tasks"
+        android:icon="@drawable/ic_action_event"
+        app:showAsAction="always|withText" />
+
+    <item 
+        android:id="@+id/matters_option"
+        android:title="@string/matters"
+        android:icon="@drawable/ic_action_book"
+        app:showAsAction="always|withText" />
+
+    <item 
+        android:id="@+id/schedules_option"
+        android:title="@string/schedule"
+        android:icon="@drawable/ic_action_schedules"
+        app:showAsAction="always|withText" />
+
+    <item 
+        android:id="@+id/notes_option"
+        android:title="@string/notes"
+        android:icon="@drawable/ic_action_note"
+        app:showAsAction="always|withText" />
+</menu>

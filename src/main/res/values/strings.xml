@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schedulearning</string>
+    <string name="action_settings">Changes</string>
+
+    <string name="name">Name</string>    
+    <string name="weight">Weight</string>    
+
+    <string name="schedule">Schedule</string>    
+    <string name="schedules">Schedules</string>    
+    <string name="schedule.new">New Schedule</string>
+    <string name="schedule.remove">Delete Schedule</string>
+    <string name="schedule.search">Search Schedule</string>
+
+    <string name="matter">Matter</string>    
+    <string name="matters">Matters</string>    
+    <string name="matter.new">New Matter</string>
+    <string name="matter.remove">Delete Matter</string>
+    <string name="matter.search">Search Matter</string>
+    <string name="matter.list">List Matter</string>
+
+    <string name="topic">Topic</string>    
+    <string name="topics">Topics</string>    
+    <string name="topic.new">New Topic</string>
+    <string name="topic.remove">Delete Topic</string>
+    <string name="topic.search">Search Topic</string>
+
+    <string name="note">Note</string>    
+    <string name="notes">Notes</string>    
+    <string name="note.new">New Note</string>
+    <string name="note.remove">Delete Note</string>
+    <string name="note.search">Search Note</string>
+
+    <string name="task">Task</string>    
+    <string name="tasks">Task</string>    
+    <string name="task.new">New Task</string>
+    <string name="task.remove">Delete Task</string>
+    <string name="task.search">Search Task</string>
+
+
+    <string name="score">Score</string>    
+    <string name="scores">Scores</string>    
+    <string name="score.new">New Score</string>
+    <string name="score.remove">Delete Score</string>
+    <string name="score.search">Search Score</string>
+    <string name="matter.register">Register Matter</string>
+    <string name="save">Save</string>
+
+</resources>
